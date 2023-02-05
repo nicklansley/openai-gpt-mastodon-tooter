@@ -42,3 +42,7 @@ You don't need to be root to do this, just run:
 <pre>
 @reboot python /path/to/gpt-tooter.py
 </pre>
+
+### Note on 'Listener' class and functions:
+I am engaged in coding this script to listen on a thread and react to incoming messages on an event-driven basis rather than polling the timeline but it's not working for me, 
+for some reason, thus the unused functions and class providing this. Now, it may be a permissions issue on the Mastodon instance's API so 'work in progress'!
