@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ... and set it running!
 <pre>
-python gpt-tooter.py
+python openai_toots.py
 </pre>
 
 If running on a server, add this to your crontab to run it at bootup.
