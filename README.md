@@ -23,6 +23,7 @@ Client secret:	ZZ1ffuvu8FHk2LGTikGbrVGCWWysSFqCNt3S0zHGHno
 Your access token:	dGTeJHxir7JfwHPxjq5LRy6AQbOeWueCazUkPUQ491c
 </pre>
 
+Make sure you are using Python 3.9 (at this date, openai has issues with python 3.10 not able to find aiohttp)
 
 Set up pip to install the requirements:
 <pre>
